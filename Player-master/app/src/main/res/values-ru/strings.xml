@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_files_missing">Приложение \"Файлы\" отключено или отсутствует</string>
+    <string name="error_details">Подробности</string>
+    <string name="open_subtitles">Загрузить субтитры</string>
+    <string name="onboarding_open_description">Нажмите, чтобы открыть видеофайл. Нажмите и удерживайте для загрузки внешних субтитров.</string>
+    <string name="onboarding_open_title">Выберите видео для воспроизведения</string>
+    <string name="video_orientation_sensor">Автоповорот</string>
+    <string name="video_orientation_video">Ориентация видео</string>
+    <string name="video_resize_crop">Обрезать</string>
+    <string name="video_resize_fit">Подогнать</string>
+</resources>
